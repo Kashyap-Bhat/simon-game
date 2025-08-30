@@ -78,5 +78,5 @@ $(document).keydown(function(){
     if(started)return;
     started = true;
     newSequence();
-    // updateHeader();
+
 })
